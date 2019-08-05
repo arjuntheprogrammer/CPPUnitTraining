@@ -1,0 +1,14 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  DllPlugInTester.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\compileroutputter.h(138): warning C4251: 'CppUnit::CompilerOutputter::m_locationFormat': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::CompilerOutputter'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugindefaultimpl.h(27): warning C4275: non dll-interface struct 'CppUnitTestPlugIn' used as base for dll-interface class 'CppUnit::TestPlugInDefaultImpl'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugin.h(43): note: see declaration of 'CppUnitTestPlugIn'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugindefaultimpl.h(26): note: see declaration of 'CppUnit::TestPlugInDefaultImpl'
+  CommandLineParser.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\pluginparameters.h(27): warning C4251: 'CppUnit::PlugInParameters::m_commandLine': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::PlugInParameters'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating Code...
+  DllPlugInTester.vcxproj -> C:\Users\arjung\Downloads\StudentUnitTest\cppunit-1.12.1.VS2010\cppunit-1.12.1\src\DllPlugInTester\.\DebugDll\DllPlugInTester.exe
+  Copying target to lib/
+          1 file(s) copied.

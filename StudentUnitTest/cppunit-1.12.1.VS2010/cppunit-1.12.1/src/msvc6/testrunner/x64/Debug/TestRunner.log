@@ -1,0 +1,74 @@
+﻿  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  cdxCDynamicDialog.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(274): warning C4244: 'return': conversion from 'INT_PTR' to 'UINT', possible loss of data
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicdialog.cpp(30): error C2440: 'static_cast': cannot convert from 'void (__cdecl cdxCDynamicDialog::* )(UINT)' to 'void (__cdecl CWnd::* )(UINT_PTR)'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicdialog.cpp(30): note: Cast from base to derived requires dynamic_cast or static_cast
+  cdxCDynamicWnd.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(274): warning C4244: 'return': conversion from 'INT_PTR' to 'UINT', possible loss of data
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.cpp(141): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.cpp(141): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.cpp(231): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.cpp(231): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.cpp(318): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.cpp(318): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+  cdxCDynamicWndEx.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(274): warning C4244: 'return': conversion from 'INT_PTR' to 'UINT', possible loss of data
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+  cdxCSizeIconCtrl.cpp
+  ListCtrlFormatter.cpp
+  ListCtrlSetter.cpp
+  MsDevCallerListCtrl.cpp
+  ProgressBar.cpp
+  ResourceLoaders.cpp
+  TestRunnerApp.cpp
+  TestRunnerDlg.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(274): warning C4244: 'return': conversion from 'INT_PTR' to 'UINT', possible loss of data
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+  TreeHierarchyDlg.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(274): warning C4244: 'return': conversion from 'INT_PTR' to 'UINT', possible loss of data
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\treehierarchydlg.cpp(106): warning C4311: 'type cast': pointer truncation from 'CppUnit::Test *' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\treehierarchydlg.cpp(106): warning C4302: 'type cast': truncation from 'CppUnit::Test *' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\treehierarchydlg.cpp(189): warning C4244: '=': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\treehierarchydlg.cpp(190): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'CppUnit::Test *' of greater size
+  ActiveTest.cpp
+  MfcTestRunner.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(274): warning C4244: 'return': conversion from 'INT_PTR' to 'UINT', possible loss of data
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(527): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(546): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4311: 'type cast': pointer truncation from 'HWND' to 'DWORD'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\dynamicwindow\cdxcdynamicwnd.h(554): warning C4302: 'type cast': truncation from 'HWND' to 'DWORD'
+  TestRunnerModel.cpp
+  MostRecentTests.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\msvc6\testrunner\mostrecenttests.cpp(56): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...

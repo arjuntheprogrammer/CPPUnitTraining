@@ -1,0 +1,29 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  MostRecentTests.cpp
+  TestRunnerModel.cpp
+  MfcTestRunner.cpp
+  ActiveTest.cpp
+  TreeHierarchyDlg.cpp
+  TestRunnerDlg.cpp
+  TestRunnerApp.cpp
+  ResourceLoaders.cpp
+  ProgressBar.cpp
+  MsDevCallerListCtrl.cpp
+  ListCtrlSetter.cpp
+  ListCtrlFormatter.cpp
+  cdxCSizeIconCtrl.cpp
+  cdxCDynamicWndEx.cpp
+  cdxCDynamicWnd.cpp
+  cdxCDynamicDialog.cpp
+  Generating Code...
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TestRunnerDSPluginVC6_i.c
+.\TestRunner.def(4): warning LNK4017: DESCRIPTION statement not supported for the target platform; ignored
+     Creating library .\Debug\testrunner.lib and object .\Debug\testrunner.exp
+  TestRunner.vcxproj -> C:\Users\arjung\Downloads\StudentUnitTest\cppunit-1.12.1.VS2010\cppunit-1.12.1\src\msvc6\testrunner\.\Debug\TestRunner.dll
+  Copying target to lib/
+          1 file(s) copied.
+          1 file(s) copied.

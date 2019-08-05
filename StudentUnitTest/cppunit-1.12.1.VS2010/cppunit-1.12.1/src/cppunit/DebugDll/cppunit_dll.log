@@ -1,0 +1,176 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ProtectorChain.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Protector.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\cppunit\protectorcontext.h(31): warning C4251: 'CppUnit::ProtectorContext::m_shortDescription': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::ProtectorContext'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  DefaultProtector.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  XmlElement.cpp
+  XmlDocument.cpp
+  StringTools.cpp
+  Win32DynamicLibraryManager.cpp
+  UnixDynamicLibraryManager.cpp
+  TestPlugInDefaultImpl.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\pluginparameters.h(27): warning C4251: 'CppUnit::PlugInParameters::m_commandLine': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::PlugInParameters'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugindefaultimpl.h(27): warning C4275: non dll-interface struct 'CppUnitTestPlugIn' used as base for dll-interface class 'CppUnit::TestPlugInDefaultImpl'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugin.h(43): note: see declaration of 'CppUnitTestPlugIn'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugindefaultimpl.h(26): note: see declaration of 'CppUnit::TestPlugInDefaultImpl'
+  PlugInParameters.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\pluginparameters.h(27): warning C4251: 'CppUnit::PlugInParameters::m_commandLine': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::PlugInParameters'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  PlugInManager.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugindefaultimpl.h(27): warning C4275: non dll-interface struct 'CppUnitTestPlugIn' used as base for dll-interface class 'CppUnit::TestPlugInDefaultImpl'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugin.h(43): note: see declaration of 'CppUnitTestPlugIn'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\plugin\testplugindefaultimpl.h(26): note: see declaration of 'CppUnit::TestPlugInDefaultImpl'
+  DynamicLibraryManagerException.cpp
+  DynamicLibraryManager.cpp
+  BeosDynamicLibraryManager.cpp
+  TextTestResult.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TextTestProgressListener.cpp
+  TestSuccessListener.cpp
+  BriefTestProgressListener.cpp
+  TextTestRunner.cpp
+  XmlOutputterHook.cpp
+  Generating Code...
+  Compiling...
+  XmlOutputter.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TextOutputter.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestResultCollector.cpp
+  CompilerOutputter.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\compileroutputter.h(138): warning C4251: 'CppUnit::CompilerOutputter::m_locationFormat': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::CompilerOutputter'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestSuite.cpp
+  TestRunner.cpp
+  TestResult.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\src\cppunit\protectorcontext.h(31): warning C4251: 'CppUnit::ProtectorContext::m_shortDescription': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::ProtectorContext'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestPath.cpp
+  TestLeaf.cpp
+  TestFailure.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestComposite.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\testcomposite.h(39): warning C4251: 'CppUnit::TestComposite::m_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::TestComposite'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestCase.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\testcase.h(50): warning C4251: 'CppUnit::TestCase::m_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::TestCase'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestAssert.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Test.cpp
+  SynchronizedObject.cpp
+  SourceLine.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Message.cpp
+  Exception.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Asserter.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  AdditionalMessage.cpp
+  Generating Code...
+  Compiling...
+  TypeInfoHelper.cpp
+  TestSuiteBuilderContext.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\extensions\testnamer.h(82): warning C4251: 'CppUnit::TestNamer::m_fixtureName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::TestNamer'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestNamer.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\extensions\testnamer.h(82): warning C4251: 'CppUnit::TestNamer::m_fixtureName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::TestNamer'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  TestFactoryRegistry.cpp
+  TestSetUp.cpp
+  TestDecorator.cpp
+  TestCaseDecorator.cpp
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\sourceline.h(56): warning C4251: 'CppUnit::SourceLine::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::SourceLine'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: see declaration of 'std::exception'
+  c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(19): note: see declaration of 'CppUnit::Exception'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\exception.h(82): warning C4251: 'CppUnit::Exception::m_whatMessage': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::Exception'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\arjung\downloads\studentunittest\cppunit-1.12.1.vs2010\cppunit-1.12.1\include\cppunit\testcase.h(50): warning C4251: 'CppUnit::TestCase::m_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CppUnit::TestCase'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  RepeatedTest.cpp
+  DllMain.cpp
+  Generating Code...
+     Creating library .\DebugDll\cppunit_dll.lib and object .\DebugDll\cppunit_dll.exp
+  cppunit_dll.vcxproj -> C:\Users\arjung\Downloads\StudentUnitTest\cppunit-1.12.1.VS2010\cppunit-1.12.1\src\cppunit\.\DebugDll\cppunit_dll.dll
+  Copying target to lib/
+          1 file(s) copied.
+          1 file(s) copied.

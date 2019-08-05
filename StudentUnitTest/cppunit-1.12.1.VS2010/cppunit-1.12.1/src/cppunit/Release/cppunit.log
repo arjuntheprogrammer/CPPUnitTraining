@@ -1,0 +1,57 @@
+﻿  BriefTestProgressListener.cpp
+  TestResultCollector.cpp
+  TestSuccessListener.cpp
+  TextTestProgressListener.cpp
+  TextTestResult.cpp
+  TextTestRunner.cpp
+  CompilerOutputter.cpp
+  TextOutputter.cpp
+  XmlOutputter.cpp
+  XmlOutputterHook.cpp
+  AdditionalMessage.cpp
+  Asserter.cpp
+  Exception.cpp
+  Message.cpp
+  SourceLine.cpp
+  SynchronizedObject.cpp
+  Test.cpp
+  TestAssert.cpp
+  TestCase.cpp
+  TestComposite.cpp
+  Generating Code...
+  Compiling...
+  TestFailure.cpp
+  TestLeaf.cpp
+  TestPath.cpp
+  TestResult.cpp
+  TestRunner.cpp
+  TestSuite.cpp
+  TestFactoryRegistry.cpp
+  TestNamer.cpp
+  TestSuiteBuilderContext.cpp
+  TypeInfoHelper.cpp
+  RepeatedTest.cpp
+  TestCaseDecorator.cpp
+  TestDecorator.cpp
+  TestSetUp.cpp
+  BeOsDynamicLibraryManager.cpp
+  DynamicLibraryManager.cpp
+  DynamicLibraryManagerException.cpp
+  PlugInManager.cpp
+  PlugInParameters.cpp
+  ShlDynamicLibraryManager.cpp
+  Generating Code...
+  Compiling...
+  TestPlugInDefaultImpl.cpp
+  UnixDynamicLibraryManager.cpp
+  Win32DynamicLibraryManager.cpp
+  StringTools.cpp
+  XmlDocument.cpp
+  XmlElement.cpp
+  DefaultProtector.cpp
+  Protector.cpp
+  ProtectorChain.cpp
+  Generating Code...
+  cppunit.vcxproj -> C:\Users\arjung\Downloads\StudentUnitTest\cppunit-1.12.1.VS2010\cppunit-1.12.1\src\cppunit\.\Release\cppunit.lib
+  Copying target to lib/
+          1 file(s) copied.
